@@ -24,9 +24,9 @@ Comparing 3 classifiers: Logistic Regression, Multi Layer Perceptron, and AdaBoo
 # Classification labels (species):
 <img width="878" alt="species" src="https://github.com/user-attachments/assets/81fdbb7e-29ee-4031-9b7b-8b3cb130ce87">
 
-
-# AdaBoosted decision tree: high training accuracy and low validation accuracy, Multi layer perceptron: does better overall
-# AdaBoosted has overfit training data, Multi layer perceptron has complex neural network 
+# Analysis of classifiers:
+- AdaBoosted decision tree: high training accuracy and low validation accuracy, Multi layer perceptron: does better overall
+- AdaBoosted has overfit training data, Multi layer perceptron has complex neural network 
 ![image](https://github.com/user-attachments/assets/d4614401-9827-4244-801b-2cdcd0c5a953)
 
 # Butterfly images classification results:
