@@ -25,7 +25,6 @@ Comparing 3 classifiers: Logistic Regression, Multi Layer Perceptron, and AdaBoo
 <img width="878" alt="species" src="https://github.com/user-attachments/assets/81fdbb7e-29ee-4031-9b7b-8b3cb130ce87">
 
 
-![image](https://github.com/user-attachments/assets/b1e4003b-1816-4bd4-a136-93d2bcf637c7)
 
 ![image](https://github.com/user-attachments/assets/d4614401-9827-4244-801b-2cdcd0c5a953)
 
